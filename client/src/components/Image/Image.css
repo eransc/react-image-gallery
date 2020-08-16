@@ -1,0 +1,12 @@
+.img-gallery {
+  border-radius: 10px;
+  flex: 1 0 25%;
+  margin: 10px;
+  height:200px;
+}
+
+.img-info{
+    background: lightblue;
+    border-radius: 10px;
+    flex: 1 0 25%;
+}

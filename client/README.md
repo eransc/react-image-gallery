@@ -1,3 +1,13 @@
+- Project Assumptions
+
+- image url are valid so am not checking if they really contain correct response
+- image size are not too big so the page will not stuck
+
+
+
+
+
+- **************************************************************************
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
